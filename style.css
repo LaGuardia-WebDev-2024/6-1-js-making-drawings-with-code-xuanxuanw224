@@ -1,11 +1,11 @@
 body {
-  background-image: url("https://wallpapers.com/images/featured/snow-background-v24n2zxteoor8gpf.jpg");
-  color: white;
+  background-image: url("https://img.freepik.com/free-photo/brown-dried-leaves-branch_181624-29484.jpg?semt=ais_hybrid&w=740&q=80");
+  color: rgb(219, 163, 116);
   text-align: center;
   
 }
 
 #myCanvas {
   border-radius: 30px;
-  border: 15px double rgb(201, 219, 233);
+  border: 15px double rgb(56, 17, 8);
 }
